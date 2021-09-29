@@ -1,5 +1,9 @@
 # Desafio  3 Column Preview card Component
 
+### Solução
+https://pedroornelaspego.github.io/3-column-preview-card-component-main/
+<hr>
+
 ### Apresentação
 
 O desafio é construir este componente de cartão e fazê-lo parecer o mais próximo possível do design do exemplo.
