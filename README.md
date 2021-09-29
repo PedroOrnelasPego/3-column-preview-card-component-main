@@ -1,4 +1,4 @@
-# Desafio Frontend Mentor
+# Desafio  3 Column Preview card Component
 
 ### Apresentação
 
@@ -8,6 +8,4 @@ Livre para usar qualquer ferramenta que desejar para auxiliar no desafio.
 
 
 # Imagem de Exemplo
-
-![Imagem de Exemplo](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/t26y9p3veejvbc9biv3f.jpg)
-
+![enter image description here](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/ap7h50kkrdq7zclbokox.jpg)
